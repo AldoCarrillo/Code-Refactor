@@ -3,12 +3,12 @@
     padding: 0;
     margin: 0;
 }
-/* BODY of the website */
+/* BODY of the webpage */
 body {
     background-color: #d9dcd6;
 }
 
-/* HEADER of the website*/
+/* HEADER of the webpage*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -57,7 +57,7 @@ p {
 }
 
 
-/*MAIN Image of the website*/
+/*MAIN Image of the webpage*/
 .mainImg {
     height: 800px;
     width: 100%;
