@@ -57,7 +57,6 @@ p {
 }
 
 
-
 /*MAIN Image of the website*/
 .mainImg {
     height: 800px;
@@ -247,7 +246,7 @@ p {
     font-size: 20px;
 }
 
-/*Footer info*/
+/*Footer font style*/
 .footer {
     padding: 30px;
     clear: both;
